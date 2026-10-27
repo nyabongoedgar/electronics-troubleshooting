@@ -1,0 +1,8 @@
+{
+  "name": "electronics-troubleshooting",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Practical electronics troubleshooting trainer: find hidden faults with a simulated multimeter. No build step.",
+  "scripts": { "test": "node tests/verify.js", "start": "python3 -m http.server 8081" },
+  "license": "MIT"
+}
